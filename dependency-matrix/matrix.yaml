@@ -23,3 +23,9 @@ dependencies:
   url: https://github.com/cb-kubecd/bdd-sbhg-1587581281.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: cb-kubecd
+  repo: bdd-ghfjxy-import-1587583666
+  url: https://github.com/cb-kubecd/bdd-ghfjxy-import-1587583666.git
+  version: ""
+  versionURL: ""
